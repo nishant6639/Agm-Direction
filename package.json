@@ -45,7 +45,7 @@
     "tslib": "^2.1.0"
   },
   "peerDependencies": {
-    "@agm/core": "^1.1.0 || ^3.0.0-beta.0",
+    "@agm/core": "github:nishant6639/angular-google-maps",
     "@angular/common": ">=6.0.0",
     "@angular/core": ">=6.0.0",
     "rxjs": "^7.5.0"
